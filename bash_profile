@@ -23,8 +23,14 @@ export PATH
 
 alias gcb='git checkout -b'
 alias gfa='git fetch --all'
-alias ggpush='git push -u origin HEAD'
+alias ggp='git push -u origin HEAD'
 alias gp='git push'
+alias gpl='git pull'
+alias gc='git checkout'
+alias clone='git clone'
+alias grh1='git reset HEAD~1'
+alias gi='git init'
+
 alias ..='cd ..'
 alias ...='cd ../..'
 alias ....='cd ../../..'
